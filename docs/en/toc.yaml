@@ -1,12 +1,14 @@
-title: Documentation Project Template
+title: Документация Damask
 href: index.yaml
 items: 
-  - name: About
-    href: about.md
-  - name: Additional page 
-    href: page.md
-  - name: Another page 
-    href: anotherpage.md
+  - name: Руководство пользователя
+    href: user_guide.md
+  - name: "Инструкция по установке"
+    href: "installation_guide.md"
+  - name: "Описание REST API DAMASK"
+    href: "api_guide.md"
+  - name: "Жизненный цикл"
+    href: "life_cycle.md"
   - name: Sub-Section 
     include:
       path: sub-section/toc.yaml
