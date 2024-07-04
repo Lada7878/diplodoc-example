@@ -1,7 +1,7 @@
 # Simple documentation project with YFM
 
 
-## Project Structure
+## Struct
 Basic project contains few config files and pages with actual content. Both config files and markdown linked into the following structure:
 
 
