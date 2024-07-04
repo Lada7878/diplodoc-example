@@ -9,6 +9,37 @@ items:
     href: "api_guide.md"
   - name: "Жизненный цикл"
     href: "life_cycle.md"
+assets:
+  - name: "_installation_guide"
+    items:
+      - "activate.png"
+      - "DamaskPhy(1).drawio"
+      - "phy.png"
+presets:
+  - name: "_user_guide_src"
+    items:
+      - "arc.png"
+      - "cli.png"
+      - "cluster.png"
+      - "detocken_result.png"
+      - "dict_edit.png"
+      - "dict_list.png"
+      - "dpd.png"
+      - "dpd_example.png"
+      - "_user_guide_src/filter.png"
+      - "login.png"
+      - "mask_rule_edit.png"
+      - "mask_rule_list.png"
+      - "monitoring.png"
+      - "monitoring_details.png"
+      - "profile.png"
+      - "search.png"
+      - "tocken.png"
+      - "tocken_result.png"
+      - "token_group_edit.png"
+      - "token_group_list.png"
+      - "user.png"
+      - "user_list.png"
   - name: Sub-Section 
     include:
       path: sub-section/toc.yaml
